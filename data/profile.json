@@ -1,0 +1,69 @@
+{
+  "name": "Diego Botaccini",
+  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
+  "job": "Front-End Developer",
+  "location": "Hamburgo, Alemanha",
+  "phone": "+49 179 498 1036",
+  "email": "diegobotaccini@outlook.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/javascript.png"
+      },
+      {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+      },
+      {
+        "name": "GitHub",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/github.png"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização",
+      "Criatividade"
+    ]
+  },
+  "languages": [
+    "Português",
+    "Inglês",
+    "Espanhol",
+    "Alemão"
+  ],
+  "portfolio": [
+    {
+      "name": "Criação de uma Pokedex utilizando JavaScript | DIO",
+      "url": "https://github.com/diegobotaccini/dio-pokedex-javascript",
+      "github": true
+    },
+    {
+      "name": "Desafio número 2 da Trilha de CSS | DIO",
+      "url": "https://github.com/diegobotaccini/trilha-css-desafio-2",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Diretor de Arte Sênior / OKTOPODS",
+      "period": "2023 - até o momento",
+      "description": "Liderar campanhas digitais e projetos de marca para clientes nos setores de design de interiores, alta tecnologia e transporte."
+    },
+    {
+      "name": "Diretor de Arte Sênior / Agências Selecionadas, Brasil & Portugal",
+      "period": "2008 - 2022",
+      "description": "Trabalhou em parceria com as principais agências, incluindo Publicis Groupe Lisboa, Float Health Lisboa e Triunfo Sudler Brasil, para fornecer estratégias de marca e campanha para clientes automotivos, de saúde e startups."
+    }
+  ]
+}
